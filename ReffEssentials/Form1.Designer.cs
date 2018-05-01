@@ -83,7 +83,7 @@
             this.btLoad.Name = "btLoad";
             this.btLoad.Size = new System.Drawing.Size(75, 23);
             this.btLoad.TabIndex = 4;
-            this.btLoad.Text = "Beniz";
+            this.btLoad.Text = "Załaduj";
             this.btLoad.UseVisualStyleBackColor = true;
             this.btLoad.Click += new System.EventHandler(this.btLoad_Click);
             // 
