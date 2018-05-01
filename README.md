@@ -11,4 +11,13 @@ Instrukcja obsługi:
 4. Kliknij "Kopiuj"
 5. Teraz wynik możesz wkleić np. do lobby na multi
 
+##Changelog
+
+#v1.1
+- Przepisanie kodu z Javy na C# (lepsze działanie)
+- Wrzucenie programu na GitHuba
+
+#v1.2
+- Dodanie gwiazdeczek do wyniku (na prośbę Bartka)
+
 Made by _Haruto
