@@ -6,10 +6,11 @@ Nie obrażę się za podanie dalej :3
 
 Instrukcja obsługi:
 1. Wpisz nazwy graczy / teamów.
-2. Kliknij "Załaduj"
-3. Dostosuj ilość punktów
-4. Kliknij "Kopiuj"
-5. Teraz wynik możesz wkleić np. do lobby na multi
+2. Wybierz BO
+3. Kliknij "Załaduj"
+4. Dostosuj ilość punktów
+5. Kliknij "Kopiuj"
+6. Teraz wynik możesz wkleić np. do lobby na multi
 
 ## Changelog
 
