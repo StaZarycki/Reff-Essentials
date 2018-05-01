@@ -20,4 +20,5 @@ Instrukcja obsługi:
 ### v1.2
 - Dodanie gwiazdeczek do wyniku (na prośbę Bartka)
 
-Made by _Haruto
+
+#### Made by _Haruto
