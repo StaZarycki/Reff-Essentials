@@ -13,12 +13,12 @@ Instrukcja obsługi:
 
 ## Changelog
 
+### v1.2
+- Dodanie gwiazdeczek do wyniku (na prośbę Bartka)
+
 ### v1.1
 - Przepisanie kodu z Javy na C# (lepsze działanie)
 - Wrzucenie programu na GitHuba
-
-### v1.2
-- Dodanie gwiazdeczek do wyniku (na prośbę Bartka)
 
 
 #### Made by _Haruto
