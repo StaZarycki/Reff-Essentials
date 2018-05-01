@@ -286,3 +286,11 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+#Custom
+*.sln
+*.config
+*.cs
+*.resx
+*.csproj
+*.ico
