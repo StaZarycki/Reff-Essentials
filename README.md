@@ -12,8 +12,12 @@ Instrukcja obsługi:
 5. Dostosuj ilość punktów
 6. Kliknij "Kopiuj"
 7. Teraz wynik możesz wkleić np. do lobby na multi
+8. Jeśli chcesz możesz również wygenerować wynik na np. Discorda
 
 ## Changelog
+
+### v1.4
+- Dodanie generowania wyniku
 
 ### v1.3
 - Dodanie gracza/teamu, który ma aktualnie pickować mapę
