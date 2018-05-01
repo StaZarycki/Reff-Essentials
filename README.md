@@ -11,7 +11,7 @@ Instrukcja obsługi:
 4. Kliknij "Kopiuj"
 5. Teraz wynik możesz wkleić np. do lobby na multi
 
-## Changelog
+### Changelog
 
 # v1.1
 - Przepisanie kodu z Javy na C# (lepsze działanie)
