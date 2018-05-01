@@ -16,6 +16,9 @@ Instrukcja obsługi:
 
 ## Changelog
 
+#### v1.4.1
+- Informacja o tym, gdy któryś gracz wygra lub w wypadku Tie Breakera
+
 ### v1.4
 - Dodanie generowania wyniku
 
